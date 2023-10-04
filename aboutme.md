@@ -1,8 +1,8 @@
 ﻿<a name="br1"></a> 
 
-###**SUCHITA ALAPATI**
+###**SUCHITA ALAPATI**###
 
-##**EDUCATION**
+##**EDUCATION**##
 
 **Castle High School**
 
@@ -22,10 +22,10 @@ Courses In Progress -
 
 ● Cyber Security
 
-##**My Favorite Picture**
+##**My Favorite Picture**##
 bike.jpg
 
-#*I want a good sleep for this weekend :sleep: :bed:*
+#*I want a good sleep for this weekend :sleep: :bed:*#
 
 <a name="br2"></a> 
 
